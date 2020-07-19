@@ -1,6 +1,6 @@
 # mac-env-MUDS
 
-# CAUTION
+## CAUTION
 - All contents of this repository are under the cc0 license, but unauthorized use or misuse is prohibited.
 
 ## License
