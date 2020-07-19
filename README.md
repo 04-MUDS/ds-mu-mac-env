@@ -1,5 +1,11 @@
 # mac-env-MUDS
 
+## Diredtory
+```sh
+.
+└── mac-env-MUDS.sh
+```
+
 ## CAUTION
 - All contents of this repository are subject to the cc0 license, but any use by anyone other than the parties involved and disclosure to an unspecified number of people is prohibited.
 
