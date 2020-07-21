@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# Lisence: CC0
+# Author: Faculty of Data Science, Musashino University.
+
 # Check Shell
 if [ $SHELL = "" ]; then
     echo "ERROR!"
