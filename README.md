@@ -1,6 +1,6 @@
 # mac-env-MUDS
 
-## Diredtory
+## Content
 ```sh
 .
 └── mac-env-MUDS.sh
